@@ -1,3 +1,3 @@
 # Zadanie
 
-To jest zadanie 58.
+To jest zadanie 3.
